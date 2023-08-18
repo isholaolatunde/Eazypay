@@ -1,6 +1,6 @@
 import React from 'react'
-import styles, { layout } from '../style'
-import {slide,menu,herodashboard} from '../assets'
+import styles from '../style'
+import {slide} from '../assets'
 const Business = () => {
   return (
     <section>

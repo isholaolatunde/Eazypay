@@ -1,5 +1,5 @@
 import React from 'react'
-import styles, { layout } from '../style'
+
 import {how} from '../assets'
 const HowitWorks = () => {
   return (
@@ -14,7 +14,7 @@ const HowitWorks = () => {
      <p>Get started in 3 simple steps.</p>
      <img src={how} alt="Billing" 
         className="w-[1128px] h-[320px] justify-center flex justify-items-center" />
-        
+
       </div>
     </section>
   )

@@ -1,6 +1,6 @@
 import React from 'react'
-import styles, { layout } from '../style'
-import { Hero_text, herodashboard, apple, android} from '../assets'
+import styles from '../style'
+import {  herodashboard} from '../assets'
 import Button from './Button'
 const Hero = () => {
   return (
